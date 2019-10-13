@@ -3,4 +3,6 @@ layout: page
 type: about
 ---
 
-Building...
+Nothing to say.
+
+![pic](/assets/about/mao.jpg)
